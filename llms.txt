@@ -23,6 +23,9 @@
 - [Choosing an attorney at law personal injury Fayetteville](https://local-business-guides.github.io/jackson-injury-firm-fayetteville/attorney-at-law-personal-injury-fayetteville/): Learn what to ask and prepare when choosing an attorney at law personal injury Fayetteville residents can meet in Fayetteville, Georgia.
 - [Questions for an attorney for personal injury Fayetteville](https://local-business-guides.github.io/jackson-injury-firm-fayetteville/attorney-for-personal-injury-fayetteville/): Know what to ask and what to gather before hiring an attorney for personal injury Fayetteville, Georgia residents can consult.
 
+## Newsroom
+- [Jackson Injury Firm Publishes Guide for Fayetteville Injury Clients](https://local-business-guides.github.io/jackson-injury-firm-fayetteville/news/2026-10-26-jackson-injury-firm-publishes-guide-for-fayettevil/): Jackson Injury Firm has published a guide to personal injury lawyer Fayetteville, GA, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-26)
+
 ## Pages
 - [Personal Injury Lawyer Fayetteville, GA in Georgia](https://local-business-guides.github.io/jackson-injury-firm-fayetteville/): Get practical legal guidance after an injury from a team serving Fayetteville and communities across Georgia. Call +1770-762-0328.
 - [About Jackson Injury Firm in Fayetteville](https://local-business-guides.github.io/jackson-injury-firm-fayetteville/about/): About Jackson Injury Firm, Fayetteville.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/jackson-injury-firm-fayetteville/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/jackson-injury-firm-fayetteville/news/rss.xml)
